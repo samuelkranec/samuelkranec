@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Samuel Kranec
 
-<!--
-**samuelkranec/samuelkranec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Who am I?
+IT Support graduate with hands-on apprenticeship experience at GPV, now studying
+**Digital Technologies (Bc.)** at FEI STU Bratislava.
+I combine a practical IT background with university-level studies in programming,
+electronics, and digital systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What am I currently working on?
+- 1st year at FEI STU
+- Learning algorithms and computer architecture fundamentals
+- Getting familiar with new tools and programing languages
+
+---
+
+### Tools I use
+- Windows 11
+- VS code
+
+---
+
+### How to reach me
+- samuel.kranec@gmail.com
+- LinkedIn - Samuel Kranec
