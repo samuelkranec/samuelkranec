@@ -49,7 +49,7 @@ electronics, digital systems, and modern technologies.
 ### Currently learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,typescript,javascript,html,css,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=cpp,typescript,javascript,html,css,nodejs" />
 </p>
 
 ---
