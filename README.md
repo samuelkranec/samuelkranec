@@ -1,4 +1,4 @@
-# Hi, I'm Samuel Kranec 👋
+# Hi, I'm Samuel Kranec
 
 ### Who am I?
 
@@ -12,12 +12,10 @@ electronics, digital systems, and modern technologies.
 
 ### What am I currently working on?
 
-- 🎓 1st year student at FEI STU Bratislava
-- 💻 Learning algorithms and computer architecture fundamentals
-- ⚙️ Improving my programming and system administration skills
-- 🏠 Building my own home lab with Proxmox, Docker, and self-hosted services
-- 🚗 Developing a custom car infotainment system based on a Mini PC and touchscreen
-
+-  1st year student at FEI STU Bratislava
+-  Learning algorithms and computer architecture fundamentals
+-  Improving my programming and system administration skills
+-  Building my own home lab with Proxmox, Docker, and self-hosted services
 ---
 
 ### Tools I use
