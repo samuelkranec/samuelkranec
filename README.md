@@ -38,7 +38,7 @@ electronics, digital systems, and modern technologies.
   <img src="https://skillicons.dev/icons?i=c,cpp,python" />
 </p>
 
-#### Design & Communication
+#### Design
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ps,ai" />
