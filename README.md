@@ -1,28 +1,75 @@
-# Hi, I'm Samuel Kranec
+# Hi, I'm Samuel Kranec 👋
 
 ### Who am I?
-IT Support graduate with hands-on apprenticeship experience at GPV, now studying
-**Digital Technologies (Bc.)** at FEI STU Bratislava.
-I combine a practical IT background with university-level studies in programming,
-electronics, and digital systems.
+
+IT Support graduate with hands-on apprenticeship experience at GPV, now studying  
+**Digital Technologies (Bc.)** at **FEI STU Bratislava**.
+
+I combine a practical IT background with university-level studies in programming,  
+electronics, digital systems, and modern technologies.
 
 ---
 
 ### What am I currently working on?
-- 1st year at FEI STU
-- Learning algorithms and computer architecture fundamentals
-- Getting familiar with new tools and programing languages
+
+- 🎓 1st year student at FEI STU Bratislava
+- 💻 Learning algorithms and computer architecture fundamentals
+- ⚙️ Improving my programming and system administration skills
+- 🏠 Building my own home lab with Proxmox, Docker, and self-hosted services
+- 🚗 Developing a custom car infotainment system based on a Mini PC and touchscreen
 
 ---
 
 ### Tools I use
 
-[![Windows 11](https://img.shields.io/badge/OS-Windows%2011-0078D6?style=for-the-badge&logo=windows11&logoColor=white)](https://www.microsoft.com/windows)
-[![VS Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
-[![Visual Studio](https://img.shields.io/badge/IDE-Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
+#### Operating Systems & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=windows,linux" />
+</p>
+
+#### Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github,powershell" />
+</p>
+
+#### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python" />
+</p>
+
+#### Design & Communication
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ps,ai" />
+</p>
+
+---
+
+### Currently learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,typescript,javascript,html,css,react,nodejs" />
+</p>
 
 ---
 
 ### How to reach me
-- samuel.kranec@gmail.com
-- LinkedIn - Samuel Kranec
+
+<p align="left">
+  <a href="mailto:samuel.kranec@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
+  </a>
+</p> 
+
+**Email:** samuel.kranec@gmail.com 
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+</p>
+
+**LinkedIn:** Samuel Kranec
+
